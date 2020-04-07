@@ -2,6 +2,10 @@
     "name": "e-shop",
     "version": "0.0.0",
     "license": "MIT",
+    "author": {
+      "name": "Valentin Yushkevich <valentindev89@gmail.com>",
+      "url": "https://github.com/valentindev89"
+    },
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
