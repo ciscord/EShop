@@ -3,8 +3,8 @@
     "version": "0.0.0",
     "license": "MIT",
     "author": {
-      "name": "Valentin Yushkevich <valentindev89@gmail.com>",
-      "url": "https://github.com/valentindev89"
+      "name": "Wu Yue <wuyuebiz@gmail.com>",
+      "url": "https://github.com/wuyuebiz"
     },
     "scripts": {
         "ng": "ng",
