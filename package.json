@@ -3,8 +3,8 @@
     "version": "0.0.0",
     "license": "MIT",
     "author": {
-      "name": "Wu Yue <wuyuebiz@gmail.com>",
-      "url": "https://github.com/wuyuebiz"
+      "name": "John <johnqt0727@gmail.com>",
+      "url": "https://github.com/ciscord"
     },
     "scripts": {
         "ng": "ng",
